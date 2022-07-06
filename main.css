@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#image{
+ margin-right: 40px;
+}
+#text{
+  float: right;
+  margin-right: 300px;
+  margin-top: 60px;
+  font-size: x-large;
+  font-weight: bold;
+  color: rgb(25, 53, 95);
+}
+#artical{
+    margin-top: 10px;
+}
+#home{
+    font-size: larger;
+    margin-bottom: 10px;
+    word-spacing: 10px;
+}
+
+#photo{
+    float: right;
+    width: 550px;
+}
+#heading{
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 30px;
+   
+}
+#teams{
+    float: left;
+    width: 50%;
+}
+#heading2{ 
+    float: left;
+    margin-left: 10px;
+}
+#text2{
+    margin-top: 40px;
+    font-size: larger ;
+    margin-bottom: 50px;
+    color: blue;
+    margin-left: 20px;
+}
+#comp{
+    width: 50%;
+    float: left;
+}
+#heading3{
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 10px;
+   
+}
+#text3{
+   float: left;
+   font-size: larger;
+   color: blue;
+   margin-left: 20px;
+}
+#nav{
+    margin-left: 550px;
+}
+#end{
+    font-size: large;
+    font-weight: bold;
+}
